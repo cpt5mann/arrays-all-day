@@ -126,8 +126,9 @@ console.log() // ['Tyrannosaurus', 'Stegosaurus', 'Velociraptor', 'Triceratops',
 
 
 // # 16
-// Use splice method to delete the value 'Pterodactyl', then add 'Stegosaurus' and 'Diplodocus'
+// Use splice method to delete the value 'Pterodactyl', then add 'Stegosaurus' and 'Diplodocus'. Console.log the array and deleted value
 var dinosaurs = ['Tyrannosaurus', 'Velociraptor', 'Triceratops', 'Pterodactyl', 'Brachiosaurus'];
     // write code below
 
 console.log() // ['Tyrannosaurus', 'Stegosaurus', 'Velociraptor', 'Triceratops', 'Stegosaurus', 'Diplodocus','Brachiosaurus']
+console.log() // ['Pterodactyl'];
