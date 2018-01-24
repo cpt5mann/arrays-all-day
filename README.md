@@ -33,5 +33,5 @@ To complete this project you will need the following:
 8. After you complete and save the first instruction, refresh your browser to see your new console.log
 
 ## Resources
-Array Methods - https://www.w3schools.com/js/js_array_methods.asp 
-
+W3 Schools: Array Methods - https://www.w3schools.com/js/js_array_methods.asp 
+MDN: Array - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
